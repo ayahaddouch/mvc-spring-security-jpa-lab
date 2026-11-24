@@ -91,7 +91,7 @@ with a clear separation of concerns:
 ## Deployment and setup
 
 ### Prerequisites
-*   Java 17 (OpenJDK)
+*   Java 25 (OpenJDK)
 *   Maven 3.8+
 
 ---
@@ -99,4 +99,4 @@ with a clear separation of concerns:
 ## Author
 
 - **Author:** Aya Haddouche
-- **Institution:** Mundiapolis University, Engineering Cycle
+- **Institution:** Mundiapolis University, Engineering Cycle 2ACI INFO GB
